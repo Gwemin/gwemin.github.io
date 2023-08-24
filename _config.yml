@@ -1,6 +1,6 @@
-title: gwemin
-url: https://gwemin.github.io
-author: gwemin
+title: toris
+url: https://toris-dev.github.io
+author: toris
 email: ironjustlikethat@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   나 자신이 만족하는 개발자가 되기위해서 도전하는 청년입니당~~
@@ -19,16 +19,16 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: gwemin-github-io
+    shortname: toris-dev-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-#    - url: https://twitter.com/gwemin
+#    - url: https://twitter.com/___
 #     icon: twitter-square
 #      color: cyan
 
-    - url: https://github.com/gwemin
+    - url: https://github.com/toris-dev
       icon: github-square
       color: yellow
       
